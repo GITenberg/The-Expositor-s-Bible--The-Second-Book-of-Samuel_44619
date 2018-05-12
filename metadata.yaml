@@ -1,0 +1,38 @@
+_repo: The-Expositor-s-Bible--The-Second-Book-of-Samuel_44619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blaikie, William Garden
+    alias: Blaikie, W. G. (William Garden)
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '4965'
+    url: http://www.gutenberg.org/2009/agents/4965
+    wikipedia: http://en.wikipedia.org/wiki/William_Garden_Blaikie
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Clear, Claudius
+    - Nicoll, William Robertson, Sir
+    - Wace, Walter E.
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2014-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Samuel, 2nd -- Commentaries'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The Second Book of Samuel'
+url: http://www.gutenberg.org/ebooks/44619
